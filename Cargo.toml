@@ -22,4 +22,4 @@ serde_json = { workspace = true }
 tauri = { workspace = true }
 log = { workspace = true }
 thiserror = { workspace = true }
-auto-launch = "0.5"
+auto-launch = { git = "ssh://git@github.com/hypobenthos/auto-launch-rs.git", branch = "feature/msix" }
