@@ -27,6 +27,5 @@ tauri-plugin = { workspace = true, features = ["build"] }
 serde = { workspace = true }
 serde_json = { workspace = true }
 tauri = { workspace = true }
-log = { workspace = true }
 thiserror = { workspace = true }
 auto-launch = { git = "ssh://git@github.com/hypobenthos/auto-launch-rs.git", branch = "feature/msix" }
